@@ -9,6 +9,7 @@ public class State {
 	private String name;
 	private String capital;
 	
+	
 	public String getName() {
 		return name;
 	}
@@ -21,4 +22,6 @@ public class State {
 	public void setCapital(String capital) {
 		this.capital = capital;
 	}
+	
+
 }
