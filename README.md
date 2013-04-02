@@ -4,6 +4,7 @@ CSVListExample
 A small example Android Application that demostrates how to use a CustomAdapter along with a ListView, to load and show some data from a CSV File.
 
 Video Walkthrough:
+
 [![ScreenShot](https://dl.dropbox.com/u/5724095/images/Githubpics/CSVList.png)](http://youtu.be/S8_HnA7aLd0)
 
     Copyright 2013 Tim Cocks
